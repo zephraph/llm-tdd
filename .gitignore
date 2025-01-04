@@ -1,3 +1,4 @@
 .env
-tdd/
+tdd/*
 !tdd/.gitkeep
+!tdd/*.test.ts
